@@ -1,5 +1,11 @@
 # Onboarding - Countdown Timer
 
+## Overview
+
+Create an online stopwatch. Everytime you hit start you create a new entry on the database. Hitting stop would update the said entry with the current timestamp. All entries should be available through a list on the page. An entry found on the list can be deleted by a button click.
+
+This exam will test basic CRUD on the api as well as testing basic ui and state manipulation on react.
+
 ## 1. Setup Development Environment and Tools
 
 - ReactJS
@@ -12,9 +18,9 @@
 
 ### Guidelines
 
-1. Front-end should be built using ReactJS.
+1. Front-end should be built using ReactJS and redux with (redux-thunk if possible). 
 
-## 2. Server
+## 3. Server
 
 ### Guidelines
 

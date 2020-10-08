@@ -1,0 +1,13 @@
+# laravel specific files
+/vendor
+# .env
+
+# editor files
+/.idea
+/.vscode
+/.editorconfig
+
+# system files
+.phpunit.result.cache
+Homestead.json
+Homestead.yaml
